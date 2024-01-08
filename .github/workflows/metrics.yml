@@ -20,7 +20,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           plugin_isocalendar: yes
           plugin_languages: yes
-          config_order: base.header, isocalendar, languages
+          #config_order: base.header, isocalendar, languages
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.habits.charts.svg
