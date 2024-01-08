@@ -12,7 +12,9 @@ icons, change i=XXX
 -->
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,c,js,rust,bash)](https://skillicons.dev)
 
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=william1209&hide=stars,contribs&show_icon=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=william1209&layout=compact)
 
 
