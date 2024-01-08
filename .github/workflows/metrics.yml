@@ -35,6 +35,6 @@ jobs:
             #@use.patterns
             #*/*
             #+lowlighter/metrics
-          config_order: base.header, isocalendar, languages
+          config_order: base.header, base.activity, isocalendar, languages, crypto
  
 
