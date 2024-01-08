@@ -1,5 +1,6 @@
 ### Hi there 👋
 [![Metrics](https://raw.githubusercontent.com/william1209/william1209/main/github-metrics.svg)](/github-metrics.svg)
+![Metrics](/metrics.plugin.habits.charts.svg)
 <!--
 badges
 -->
