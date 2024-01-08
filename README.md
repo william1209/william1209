@@ -1,8 +1,8 @@
 ### Hi there 👋
 <div align="center">
   
-[![Metrics](https://raw.githubusercontent.com/william1209/william1209/main/github-metrics.svg)](/github-metrics.svg) &nbsp;
-[![Metrics](https://raw.githubusercontent.com/william1209/william1209/main/metrics.plugin.habits.charts.svg)](/metrics.plugin.habits.charts.svg) &nbsp;
+[![Metrics](https://raw.githubusercontent.com/william1209/william1209/main/github-metrics.svg)](/github-metrics.svg) 
+[![Metrics](https://raw.githubusercontent.com/william1209/william1209/main/metrics.plugin.habits.charts.svg)](/metrics.plugin.habits.charts.svg) 
 
 </div>
 
