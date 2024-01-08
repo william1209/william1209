@@ -23,14 +23,13 @@ jobs:
           config_order: base.header, isocalendar, languages
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.crypto.svg
-          token: NOT_NEEDED
+          filename: metrics.plugin.habits.charts.svg
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          plugin_crypto: yes
-          plugin_crypto_id: bitcoin
-          plugin_crypto_vs_currency: usd
-          plugin_crypto_days: 1
-          plugin_crypto_precision: 2
+          plugin_habits: yes
+          plugin_habits_facts: no
+          plugin_habits_charts: yes
+          config_timezone: Asia/Taipei 
           
  
 
