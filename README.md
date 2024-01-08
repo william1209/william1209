@@ -1,5 +1,7 @@
 ### Hi there 👋
-![Metrics](https://wdnmd-nft.infura-ipfs.io/ipfs/Qmb5fH4coJBCt8eGXYnci4JiGFwt2rMyEmS2rZt14mSmj1)
+<!--![Metrics](https://wdnmd-nft.infura-ipfs.io/ipfs/Qmb5fH4coJBCt8eGXYnci4JiGFwt2rMyEmS2rZt14mSmj1)-->
+![Metrics](/metrics.plugin.stock.svg)
+
 <!--
 **william1209/william1209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
