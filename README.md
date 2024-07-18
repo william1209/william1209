@@ -12,6 +12,7 @@
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=apple,ubuntu,windows&perline=4)](https://skillicons.dev)
 
 ### </> Lang 
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,c,rust&perline=4)](https://skillicons.dev)
@@ -24,8 +25,8 @@
 ### 🛠️ DevTools
 [![My Skills](https://skillicons.dev/icons?i=vim,emacs,git,github,anaconda,pytorch,docker,kubernetes&perline=4)](https://skillicons.dev)
 
-### 🥞 Backends
-[![My Skills](https://skillicons.dev/icons?i=prisma,mysql&perline=4)](https://skillicons.dev)
+### 🕸️ Web
+[![My Skills](https://skillicons.dev/icons?i=prisma,mysql,mongodb&perline=4)](https://skillicons.dev)
 
 ### 💬 Topics
 ![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
