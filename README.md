@@ -35,6 +35,7 @@
 ![Alacritty](https://img.shields.io/badge/-alacritty-logo?style=for-the-badge&logo=alacritty&color=%2316222A)
 ![Wezterm](https://img.shields.io/badge/-wezterm-logo?style=for-the-badge&logo=wezterm&color=%234E49EE)
 ![tmux](https://img.shields.io/badge/-tmux-logo?style=for-the-badge&logo=tmux&color=%23393939)
+![zsh](https://img.shields.io/badge/-zsh-logo?style=for-the-badge&logo=zsh&color=%230C1321)
 <br>
 ![Podman](https://img.shields.io/badge/-podman-logo?style=for-the-badge&logo=podman&color=%23892CA0)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
