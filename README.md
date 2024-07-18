@@ -21,9 +21,11 @@
 </a>-->
 
 
-
 ### 🛠️ DevTools
-[![My Skills](https://skillicons.dev/icons?i=vim,emacs,git,github,anaconda,pytorch,bash,docker&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vim,emacs,git,github,anaconda,pytorch,docker,kubernetes&perline=4)](https://skillicons.dev)
+
+### 🥞 Backends
+[![My Skills](https://skillicons.dev/icons?i=prisma,mysql&perline=4)](https://skillicons.dev)
 
 ### 💬 Topics
 ![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
