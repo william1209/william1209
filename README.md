@@ -9,9 +9,11 @@
 
 ## Favorites 💛
 ### 🖥️ OS
+<!--
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+-->
 [![My Skills](https://skillicons.dev/icons?i=apple,ubuntu,windows&perline=4)](https://skillicons.dev)
 
 ### </> Lang 
@@ -23,7 +25,15 @@
 
 
 ### 🛠️ DevTools
+<!--
 [![My Skills](https://skillicons.dev/icons?i=vim,emacs,git,github,anaconda,pytorch,docker,kubernetes&perline=4)](https://skillicons.dev)
+-->
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
+![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Podman](https://img.shields.io/badge/-podman-logo?style=for-the-badge&logo=podman&color=%237150B6)
+
 
 ### 🕸️ Web
 [![My Skills](https://skillicons.dev/icons?i=prisma,mysql,mongodb&perline=4)](https://skillicons.dev)
