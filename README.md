@@ -40,6 +40,9 @@
 ![Podman](https://img.shields.io/badge/-podman-logo?style=for-the-badge&logo=podman&color=%23892CA0)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+### 👾 ML
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
 
 ### 🕸️ Web
 <!--[![My Skills](https://skillicons.dev/icons?i=prisma,mysql,mongodb&perline=4)](https://skillicons.dev)-->
@@ -50,6 +53,11 @@
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo)
+
+### LowLovel
+![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
+![Juce](https://img.shields.io/badge/-juce-logo?style=for-the-badge&logo=juce&logoColor=%23F2A054&color=%238DC63F)
+
 
 ### 💬 Topics
 ![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
