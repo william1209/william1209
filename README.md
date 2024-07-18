@@ -41,7 +41,12 @@
 
 
 ### 🕸️ Web
-[![My Skills](https://skillicons.dev/icons?i=prisma,mysql,mongodb&perline=4)](https://skillicons.dev)
+<!--[![My Skills](https://skillicons.dev/icons?i=prisma,mysql,mongodb&perline=4)](https://skillicons.dev)-->
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### 💬 Topics
 ![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
