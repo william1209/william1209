@@ -24,7 +24,7 @@
 </a>-->
 
 
-### 🛠️ DevTools
+### 🛠️ Dev
 <!--
 [![My Skills](https://skillicons.dev/icons?i=vim,emacs,git,github,anaconda,pytorch,docker,kubernetes&perline=4)](https://skillicons.dev)
 -->
@@ -42,6 +42,8 @@
 
 ### 👾 AI & ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![mlx](https://img.shields.io/badge/-mlx-logo?style=for-the-badge&color=%23000&link=https%3A%2F%2Fml-explore.github.io%2Fmlx%2Fbuild%2Fhtml%2Finstall.html)
+
 
 
 ### 🕸️ Web
@@ -57,10 +59,14 @@
 ### 📱 Application
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 ![Juce](https://img.shields.io/badge/-juce-logo?style=for-the-badge&logo=juce&logoColor=%23F2A054&color=%238DC63F)
+![sfml](https://img.shields.io/badge/-sfml-logo?style=for-the-badge&logo=sfml&logoColor=%23FEFEFE&color=%23000)
+
 
 ### 💨 Productivity
 ![Raycast](https://img.shields.io/badge/-raycast-logo?style=for-the-badge&logo=raycast&color=%23292525)
 ![Linear](https://img.shields.io/badge/-linear-logo?style=for-the-badge&logo=linear&color=%232E3035)
+![Org](https://img.shields.io/badge/-orgroam-logo?style=for-the-badge&logo=org&logoColor=%23FEFEFE&color=%2377AA99)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 </div>
 
