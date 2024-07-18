@@ -7,7 +7,7 @@
 
 <div align="center">
 
-## TOOLs ⚙️
+## ⚙️ TOOLs
 ### 🖥️ OS
 <!--
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
@@ -68,9 +68,10 @@
 ![Linear](https://img.shields.io/badge/-linear-logo?style=for-the-badge&logo=linear&color=%232E3035)
 ![Org](https://img.shields.io/badge/-orgroam-logo?style=for-the-badge&logo=org&logoColor=%23FEFEFE&color=%2377AA99)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Affine](https://img.shields.io/badge/-affine-logo?style=for-the-badge&logo=affine&logoColor=%23FEFEFE&color=%231E96EB)
+
 
 </div>
-
 
 <!--
 **william1209/william1209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
