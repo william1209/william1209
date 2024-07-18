@@ -7,7 +7,7 @@
 
 <div align="center">
 
-## Favorites 💛
+## TOOLs ⚙️
 ### 🖥️ OS
 <!--
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
@@ -40,7 +40,7 @@
 ![Podman](https://img.shields.io/badge/-podman-logo?style=for-the-badge&logo=podman&color=%23892CA0)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### 👾 ML
+### 👾 AI & ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 
@@ -54,19 +54,13 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo)
 
-### LowLovel
+### 📱 Application
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 ![Juce](https://img.shields.io/badge/-juce-logo?style=for-the-badge&logo=juce&logoColor=%23F2A054&color=%238DC63F)
 
-
-### 💬 Topics
-![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
-![Iota](https://img.shields.io/badge/iota-29334C?style=for-the-badge&logo=iota&logoColor=white) 
-![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
-![Signal](https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white) <br>
-![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Wise](https://img.shields.io/badge/Wise-394e79?style=for-the-badge&logo=wise&logoColor=00B9FF)
+### 💨 Productivity
+![Raycast](https://img.shields.io/badge/-raycast-logo?style=for-the-badge&logo=raycast&color=%23292525)
+![Linear](https://img.shields.io/badge/-linear-logo?style=for-the-badge&logo=linear&color=%232E3035)
 
 </div>
 
