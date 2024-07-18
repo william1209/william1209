@@ -36,7 +36,7 @@
 ![Wezterm](https://img.shields.io/badge/-wezterm-logo?style=for-the-badge&logo=wezterm&color=%234E49EE)
 ![tmux](https://img.shields.io/badge/-tmux-logo?style=for-the-badge&logo=tmux&color=%23393939)
 <br>
-![Podman](https://img.shields.io/badge/-podman-logo?style=for-the-badge&logo=podman&color=%237150B6)
+![Podman](https://img.shields.io/badge/-podman-logo?style=for-the-badge&logo=podman&color=%23892CA0)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
