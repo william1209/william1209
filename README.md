@@ -43,8 +43,8 @@
 ### 👾 AI & ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![mlx](https://img.shields.io/badge/-mlx-logo?style=for-the-badge&color=%23000&link=https%3A%2F%2Fml-explore.github.io%2Fmlx%2Fbuild%2Fhtml%2Finstall.html)<br>
-![anthropic](https://img.shields.io/badge/-anthropic-logo?style=for-the-badge&logo=anthropic&color=%23000)
 ![huggingface](https://img.shields.io/badge/-huggingface-logo?style=for-the-badge&logo=huggingface&color=%236B86C2)
+![anthropic](https://img.shields.io/badge/-anthropic-logo?style=for-the-badge&logo=anthropic&color=%23000)
 
 
 ### 🕸️ Web
