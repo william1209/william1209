@@ -66,9 +66,15 @@
 ### 💨 Productivity
 ![Raycast](https://img.shields.io/badge/-raycast-logo?style=for-the-badge&logo=raycast&color=%23292525)
 ![Linear](https://img.shields.io/badge/-linear-logo?style=for-the-badge&logo=linear&color=%232E3035)
+![ipfs](https://img.shields.io/badge/-ipfs-logo?style=for-the-badge&logo=ipfs&logoColor=%23FEFEFE&color=%2365C2CB)
+<br>
 ![Org](https://img.shields.io/badge/-orgroam-logo?style=for-the-badge&logo=org&logoColor=%23FEFEFE&color=%2377AA99)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Affine](https://img.shields.io/badge/-affine-logo?style=for-the-badge&logo=affine&logoColor=%23FEFEFE&color=%231E96EB)
+
+### 📰 News
+![Producthunt](https://img.shields.io/badge/-producthunt-logo?style=for-the-badge&logo=producthunt&color=%231D1725)
+![Hackernoon](https://img.shields.io/badge/-hackernoon-logo?style=for-the-badge&logo=hackernoon&color=%231C1A1D)
 
 
 </div>
