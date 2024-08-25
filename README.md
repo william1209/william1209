@@ -57,11 +57,11 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo)
 
-### 📱 Application
+<!--### 📱 Application
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 ![Juce](https://img.shields.io/badge/-juce-logo?style=for-the-badge&logo=juce&logoColor=%23F2A054&color=%238DC63F)
 ![sfml](https://img.shields.io/badge/-sfml-logo?style=for-the-badge&logo=sfml&logoColor=%23FEFEFE&color=%23000)
-
+-->
 
 ### 💨 Productivity
 ![Raycast](https://img.shields.io/badge/-raycast-logo?style=for-the-badge&logo=raycast&color=%23292525)
